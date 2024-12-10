@@ -85,6 +85,21 @@
         ]
     },
     {
+        "tag": "yogo",
+        "patterns": [
+            "What are the benefits of yoga?",
+            "How does yoga help health?",
+            "Why should I practice yoga?",
+            "Can yoga improve focus and concentration?"
+        ],
+        "responses": [
+            "Yoga improves flexibility, strength, and balance while reducing stress and anxiety.",
+            "It promotes better posture, enhances mental clarity, and improves overall well-being.",
+            "Yoga helps in relaxation, better breathing, and maintaining a healthy lifestyle.",
+            "Practicing mindfulness in yoga is about being present in each moment, paying attention to your breath and movements."
+        ]
+    },
+    {
         "tag": "weather",
         "patterns": [
             "What's the weather like",
