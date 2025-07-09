@@ -35,7 +35,7 @@ Streamlit UI allows typing messages like "Hi", "What is a credit score?", or "Th
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chatbot-nlp.git
+-<A HERF="https://github.com/Nanajichowdary/P4-Implementation-Of-Chatbot-By-NLP/tree/main">
 cd chatbot-nlp
 2. Install dependencies
 bash
